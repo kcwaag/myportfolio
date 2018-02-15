@@ -13,7 +13,7 @@
             </div>
             <div class="theme">
                 <div class="theme-screenshot"><img src="<?php echo get_template_directory_uri(); ?>/inc/welcome/images/optimal-child-screenshot.png" alt=""></div>
-                <h2 class="theme-name"><?php esc_html_e('Optimal Child Theme (for Integral)', 'integral'); ?></h2>
+                <h2 class="theme-name"><?php esc_html_e('Optimal Child Theme', 'integral'); ?></h2>
                 <div class="theme-actions">
                     <a class="button button-primary load-customize hide-if-no-customize" href="https://www.themely.com/download/optimal.zip"><?php esc_html_e('Download', 'integral'); ?></a>
                 </div>

@@ -62,3 +62,8 @@ require get_template_directory() . '/inc/theme-demo-import.php';
 * Upgrade Notice
 */
 require get_template_directory() . '/inc/upgrade/class-customize.php';
+
+/**
+* Reviews Notice
+*/
+require get_template_directory() . '/inc/reviews.php';

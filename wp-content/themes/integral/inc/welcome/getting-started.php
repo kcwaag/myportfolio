@@ -34,6 +34,7 @@
             <h3><?php esc_html_e('Upgrade to Integral PRO!', 'integral'); ?></h3>
             <p class="about"><?php esc_html_e('Unlock all theme features!', 'integral'); ?> <a target="_blank" href="<?php echo esc_url('http://demo.themely.com/integral/'); ?>"><?php esc_html_e('View the live demo', 'integral'); ?></a></p>
             <p class="red"><strong><?php esc_html_e('Save 10% with coupon code', 'integral'); ?> <span class="border-red"><?php esc_html_e('THEMELY10', 'integral'); ?></span></strong></p>
+            <p class="green"><span class="border-green"><strong><?php esc_html_e('Now with 2 FREE child themes included; Optimal Pro & Elemental Pro.', 'integral'); ?></strong></span></p>
             <ul class="ul-square">
                 <li><?php esc_html_e('Easily change font type, color and size for all sections (no coding required)', 'integral'); ?></li>
                 <li><?php esc_html_e('Change order of homepage sections (drag & drop)', 'integral'); ?></li>

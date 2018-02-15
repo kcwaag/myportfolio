@@ -46,11 +46,11 @@
 			
 			<?php wp_link_pages(); ?> 
 			
-			 <?php endwhile;?>
+			<?php endwhile;?>
 				
-			<?php comments_template(); ?>
+			<?php if ( comments_open() ) : ?><?php comments_template(); ?><?php endif; ?>
 
-			 <?php endif; ?>
+			<?php endif; ?>
 
 			</div><!--content-->
 

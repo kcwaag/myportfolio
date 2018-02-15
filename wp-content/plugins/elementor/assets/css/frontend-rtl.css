@@ -1,4 +1,4 @@
-/*! elementor - v1.9.3 - 21-01-2018 */
+/*! elementor - v1.9.5 - 14-02-2018 */
 .dialog-widget-content {
   background-color: #fff;
   position: absolute;
@@ -187,6 +187,7 @@
     max-width: none;
     position: absolute;
     top: 50%;
+    left: 0;
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%); }
@@ -636,7 +637,8 @@
   .elementor-form-fields-wrapper.elementor-labels-above > .elementor-field-group > input, .elementor-form-fields-wrapper.elementor-labels-above > .elementor-field-group > textarea, .elementor-form-fields-wrapper.elementor-labels-above > .elementor-field-group > .elementor-select-wrapper, .elementor-form-fields-wrapper.elementor-labels-above > .elementor-field-group .elementor-field-subgroup {
     -webkit-flex-basis: 100%;
         -ms-flex-preferred-size: 100%;
-            flex-basis: 100%; }
+            flex-basis: 100%;
+    max-width: 100%; }
   .elementor-form-fields-wrapper.elementor-labels-inline > .elementor-field-group > input, .elementor-form-fields-wrapper.elementor-labels-inline > .elementor-field-group .elementor-select-wrapper {
     -webkit-box-flex: 1;
     -webkit-flex-grow: 1;

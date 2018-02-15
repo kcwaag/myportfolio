@@ -1,18 +1,32 @@
-### 1.4.2.3 - 1/17/2017
+### 1.4.2.5 - Feb 4th, 2018
+
+Changes:
+
+- Added admin notice to review Integral
+
+
+### 1.4.2.4 - 1/31/2018
+
+Changes:
+
+- Added text for child themes in upsell section of getting-started.php
+
+
+### 1.4.2.3 - 1/17/2018
 
 Changes:
 
 - Updated Flexslider script
 
 
-### 1.4.2.2 - 1/12/2017
+### 1.4.2.2 - 1/12/2018
 
 Changes:
 
 - Updated wpml-config.xml file
 
 
-### 1.4.2.1 - 1/08/2017
+### 1.4.2.1 - 1/08/2018
 
 Changes:
 

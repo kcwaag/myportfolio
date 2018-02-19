@@ -252,7 +252,7 @@ body {
 	margin: 0 auto;
 }
 .page-header {
-	border-bottom: 1px solid #e68b74;
+	border-bottom: 1px solid #bfbfbf;
 	padding-bottom: 2.5em;
 	padding-top: 2.3125em;
 	overflow: hidden;
@@ -263,14 +263,13 @@ body {
 }
 .page-header .top-logo .title {
 	color: #e68b74;
-	font: 700 1.88em/1.3125 'Montserrat', 'OpenSans', Arial, sans-serif;
-	letter-spacing: -0.034em;
+  font-family: 'Stalemate', cursive;
+	font-size: 70px;
 	display: block;
-	text-transform: uppercase;
 }
 .page-header .top-logo .sub-title {
 	color: inherit;
-	display: block;
+	display: none;
 }
 .page-header .top-nav {
 	padding-top: 1.375em;
@@ -287,7 +286,8 @@ body {
 	line-height: 2.75;
 	margin: 0 1em;
 	padding: .25em 0;
-	text-transform: lowercase;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
 }
 .page-header .top-nav ul li:hover > a{
 	border-bottom: 1px solid #e68b74;
@@ -376,8 +376,8 @@ body {
 }
 .entry-title {
 	margin: 0.25em 0 1em;
-	font: 700 1.5em/1.5 'Montserrat', 'OpenSans', Arial, sans-serif;
-	letter-spacing: -0.034em;
+	font-family: 'Raleway', sans-serif;
+
 }
 .entry-title a {
 	color: inherit;
@@ -719,7 +719,7 @@ body {
 .page .entry-title {
 	font-weight: 500;
 	text-align: center;
-    border-bottom: 0.07em solid #45ac9d;
+    border-bottom: 0.07em solid #e68b74;
     padding-bottom: .5em;
 }
 .page-template-full-width .page-header {
@@ -758,7 +758,7 @@ body {
 	color: #e68b74;
 }
 .home .content p {
-	font: 1em/2 'OpenSans', Arial, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	margin-bottom: 1.5em;
 }
 .home .content p a {
@@ -792,11 +792,14 @@ body {
 .home .btn {
 	background: #e68b74;
 	color: #fff;
-	font: 700 1.25em/2.5 'Montserrat', 'OpenSans', Arial, sans-serif;
+	font-family: 'Raleway', sans-serif;
+	font-weight:bold;
+	font-size: 1.5em;
 	display: inline-block;
-	height: 2.5em;
+	height: 2em;
 	width: 100%;
 	padding: 0 1.25em;
+	padding-top: .25em;
 	text-align: center;
 	text-decoration: none;
 }
